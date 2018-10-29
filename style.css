@@ -1,4 +1,9 @@
-body{}
+
 .obrazek1{
 border:solid;
+}
+body{background-color:white;
+font-family: 'Roboto', sans-serif;
+background-image: url(bg.gif);
+
 }
