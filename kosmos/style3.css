@@ -1,0 +1,35 @@
+.navcon{
+	display:none;
+	
+}
+.mobilemenu{
+	display:block;
+	position:absolute;
+	z-index:999;
+	
+	float:right;
+	right:15px;
+	
+}.mobilemenu img{
+	width:50px;
+	
+}
+.prawo{
+	border: solid 0.4px;
+	padding:1px;
+	border-radius: 15px;
+	
+	
+}.lewo{
+	border: solid 0.4px;
+	padding:1px;
+	border-radius: 15px;
+	
+	
+}.wpro{
+	border: solid 0.4px;
+	padding:1px;
+	border-radius: 15px;
+	
+	
+}

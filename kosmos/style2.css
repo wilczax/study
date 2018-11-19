@@ -1,0 +1,27 @@
+.planeta{
+width:95%;
+	
+	
+}
+.lewo{
+
+	width:100%;
+clear:both;
+}.prawo{
+width:100%;
+clear:both;
+	
+	
+}
+body{
+	margin:0;
+	font-family: 'Lato', sans-serif;
+
+   background-image: url("bg2.jpg");
+	color:white;
+
+}
+p{ background: -webkit-linear-gradient(red , black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 1px #ff0000;}
