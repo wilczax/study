@@ -1,0 +1,42 @@
+.planeta{
+width:95%;
+	
+	
+}
+.lewo{
+
+	width:100%;
+clear:both;
+}.prawo{
+width:100%;
+clear:both;
+	
+	
+	
+}
+.czesc1 {
+	width:90%;
+	margin-left:auto;
+margin-right:auto;
+clear:both;
+text-align:center;
+margin-top:100px;
+
+}.czesc2 {
+	width:90%;
+	margin-left:auto;
+margin-right:auto;
+clear:both;
+
+}.czesc3 {
+	width:90%;
+	
+	margin-left:auto;
+margin-right:auto;
+clear:both;
+
+}
+body{
+	color:linear-gradient(to right, purple , white)
+	
+}
