@@ -5,11 +5,13 @@ width:95%;
 }
 .lewo{
 
-	width:100%;
+width:100%;
 clear:both;
+border-color: coral;
 }.prawo{
 width:100%;
 clear:both;
+border-color: coral;
 	
 	
 	
@@ -38,6 +40,11 @@ clear:both;
 }
 body{
 	color:linear-gradient(to right, purple , white);
+	
+	
+}
+.wpro{
 	border-color: coral
+	
 	
 }
