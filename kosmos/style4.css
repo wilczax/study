@@ -37,6 +37,7 @@ clear:both;
 
 }
 body{
-	color:linear-gradient(to right, purple , white)
+	color:linear-gradient(to right, purple , white);
+	border-color: coral
 	
 }
